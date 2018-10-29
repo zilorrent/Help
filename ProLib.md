@@ -2,7 +2,7 @@
 
 ## Programming Library
 
-1. [Visual Studio Code](https://github.com/Proscius/Help/tree/master/Editor/Microsoft-VS-Code) - Best code editor
+1. [Visual Studio Code](https://github.com/Proscius/Help/tree/master/Editor/Microsoft%20VS%20Code) - Best code editor
 2. [Git](https://github.com/Proscius/Help/tree/master/Git) - Version Control
 3. [GitHub](https://github.com/Proscius/Help/tree/master/GitHub) - Store SCM online
 4. [MinGW-w64](https://github.com/Proscius/Help/tree/master/C%2B%2B/Compiler) - GCC Compiler
