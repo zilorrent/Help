@@ -2,12 +2,12 @@
 
 ## Programming Library
 
-1. [Visual Studio Code](https://github.com/Proscius/Help/Editor/vscode.md) - Best code editor
-2. [Git](https://github.com/Proscius/Help/Git/README.md) - Version Control
-3. [GitHub](https://github.com/Proscius/Help/GitHub/README.md) - Store SCM online
-4. [MinGW-w64](https://github.com/proscius/Help/C++/Compiler/README.md) - GCC Compiler
-5. [Python](https://github.com/Proscius/Help/Python/README.md) - Progamming Language for Data Science
-6. [LaTeX](https://github.com/Proscius/Help/LaTeX/README.md) - a high-quality typesetting system
+1. [Visual Studio Code](https://github.com/Proscius/Help/tree/master/Editor/Microsoft-VS-Code) - Best code editor
+2. [Git](https://github.com/Proscius/Help/tree/master/Git) - Version Control
+3. [GitHub](https://github.com/Proscius/Help/tree/master/GitHub) - Store SCM online
+4. [MinGW-w64](https://github.com/Proscius/Help/tree/master/C%2B%2B/Compiler) - GCC Compiler
+5. [Python](https://github.com/Proscius/Help/tree/master/Python) - Progamming Language for Data Science
+6. [LaTeX](https://github.com/Proscius/Help/tree/master/LaTeX) - a high-quality typesetting system
 
 ## Web Development
 
