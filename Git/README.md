@@ -1,10 +1,8 @@
 # Git-SCM
 
-## List
-
 ## Install
 
-You can download [here](https://git-scm.com/downloads)
+You can download Git-SCM [here](https://git-scm.com/downloads)
 
 ## Docs
 

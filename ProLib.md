@@ -15,16 +15,16 @@
 
 1. [HTML/CSS](#HTML/CSS) - simple way to create a site
 2. [JavaScript for Web](#JavaScript-for-Web) - interactive web pages
-3. [Bootstrap](https://getbootstrap.com/) - the world’s most popular framework for building responsive, mobile-first sites
+3. [Bootstrap](https://getbootstrap.com/) - the world's most popular framework for building responsive, mobile-first sites
 
 ### Back-end
 
 1. [Node.js](https://nodejs.org) - an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser
-2. [Epress.js](#express.js)
+2. [Epress.js](#express.js) - Fast, unopinionated, minimalist web framework for Node.js
 
 ## Useful website
 
-1. [Tuturial Point](https://www.tutorialspoint.com/)
+1. [Tuturial Point](https://www.tutorialspoint.com/) - the best resource for Online Education
 2. [StackOverflow](https://stackoverflow.com/) - Learn, Share, Build
 3. [Plural Sight](https://www.pluralsight.com/) - The technology learning platform
 4. [freeCodeCamp](https://learn.freecodecamp.org/) - Strength does not come from physical capacity. It comes from an indomitable will.
@@ -36,4 +36,4 @@
 
 ## Support
 
-1. [AutoHotkey](https://www.autohotkey.com/)
+1. [AutoHotkey](https://www.autohotkey.com/) - The ultimate automation scripting language for Windows.
