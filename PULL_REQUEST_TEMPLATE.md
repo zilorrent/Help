@@ -1,9 +1,9 @@
 # Pull Request
 
-Author:[eg:Proscius]
+Author : [eg: Proscius]
 
-Header:[eg:Update ProLib.md]
+Header : [eg: Update ProLib.md]
 
-Description:[eg:Adding request function to ProLib.md]
+Description : [eg: Adding request function to ProLib.md]
 
-Date:[30/10/2018]
+Date : [eg: 30/10/2018]
